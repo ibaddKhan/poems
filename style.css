@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: rgb(9, 43, 192);
+}
+nav{
+    display: flex;
+    background-color: rgb(14, 12, 12);
+}
+h1{
+    margin: 5px 99px 2px 92px;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
+.container{
+    display: inline-block;
+    margin: 92px 0px 0px 415px;
+}
+span{
+    color: rgb(142, 206, 47);
+}
+.main{
+    color: orange;
+    font-size: 70px;
+    margin: 0px 23px
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.red{
+    color: brown;
+}
+.all{
+    font-family: 'Dosis', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#poem2{
+    color: burlywood;
+}
